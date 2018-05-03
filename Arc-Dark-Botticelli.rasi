@@ -1,6 +1,6 @@
 /************************************************
  * ROFI Color theme
- * User: ArcoLinux and leofa
+ * User: ArcoLinux 
  * Copyright: 2017 leofa
  ***********************************************/
 
@@ -22,7 +22,7 @@
     alternate-normal-foreground: @foreground;
     normal-background:           @background;
     lightfg:                     rgba ( 88, 104, 117, 100 % );
-    selected-normal-background:  rgba ( 130, 164, 179, 100 % );
+    selected-normal-background:  rgba ( 130, 164, 179, 100% );
     border-color:                rgba ( 124, 131, 137, 100 % );
     spacing:                     2;
     separatorcolor:              rgba ( 29, 31, 33, 100 % );
@@ -144,3 +144,7 @@
     margin:     0px 0.3em 0em 0em ;
     text-color: @normal-foreground;
 }
+
+/************************************************
+ * Build upon the work of leofa
+ ***********************************************/
