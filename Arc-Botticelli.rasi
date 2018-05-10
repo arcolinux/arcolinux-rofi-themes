@@ -1,7 +1,7 @@
 /************************************************
  * ROFI Color theme
- * User: ArcoLinux 
- * Copyright: 2017 leofa
+ * User: ArcoLinux
+ * Copyright: 2017 Sergio Morales
  ***********************************************/
 
 * {
@@ -146,5 +146,5 @@
 }
 
 /************************************************
- * Build upon the work of leofa
+ * Build upon the work of Sergio Morales
  ***********************************************/

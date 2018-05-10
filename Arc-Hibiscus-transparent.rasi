@@ -22,7 +22,7 @@
     alternate-normal-foreground: @foreground;
     normal-background:           @background;
     lightfg:                     rgba ( 88, 104, 117, 100 % );
-    selected-normal-background:  rgba ( 130, 164, 179, 60% );
+    selected-normal-background:  rgba ( 213, 47, 97, 60% );
     border-color:                @foreground;
     spacing:                     2;
     separatorcolor:              @foreground;
@@ -32,7 +32,7 @@
     background-color:            rgba ( 0, 0, 0, 0 % );
     alternate-active-foreground: @active-foreground;
     active-background:           rgba ( 255, 255, 255, 100 % );
-    selected-active-background:  rgba ( 130, 164, 179, 60 % );
+    selected-active-background:  rgba ( 213, 47, 97, 60% );
 }
 #window {
     background-color: @background;
